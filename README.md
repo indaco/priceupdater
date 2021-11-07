@@ -3,6 +3,10 @@
     <img src="screenshots/module_tile.png" alt="module tile"/>
 </div>
 
+## Overview
+
+Prestashop module to easily update products prices based on pricethreshold.
+
 ## Prerequisites
 
 - PHP version: 7.3 - higher
